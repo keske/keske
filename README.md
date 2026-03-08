@@ -1,4 +1,4 @@
-# Hi, I’m Andrey 👋
+# Hi, I’m Andrey
 
 Applied **AI Engineer** with a strong full-stack background, focused on building
 **production-grade RAG and LLM systems**.
@@ -41,11 +41,11 @@ I work at the intersection of:
 
 ## Selected projects
 
-- 🧠 **RAG Platform** — production-oriented retrieval system for unstructured data  
-- 🛠 **Observer** — AI-native tooling for working with complex data flows  
-- 📦 OSS libraries used in production products
+- **RAG Platform** — production-oriented retrieval system for unstructured data  
+- **Observer** — AI-native tooling for working with complex data flows  
+- OSS libraries used in production products
 
 ---
 
-📍 New York, NY  
-🔗 https://github.com/keske
+New York, NY  
+https://github.com/keske
